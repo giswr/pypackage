@@ -1,0 +1,4 @@
+ 
+# pypackage module
+
+::: pypackage.pypackage
